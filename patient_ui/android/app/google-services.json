@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "40735780102",
+    "project_id": "life-plus-app-9f1d6",
+    "storage_bucket": "life-plus-app-9f1d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40735780102:android:47c7997c82c93839ca8287",
+        "android_client_info": {
+          "package_name": "com.example.patient_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40735780102-0u4ojhuc8me61sr1hjmofha6o1cvqqrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWQ_VZm1BVkZxSnszL25O8sv9Nnd9YIAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40735780102-0u4ojhuc8me61sr1hjmofha6o1cvqqrh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "40735780102-of1qot0dbmtr1pmi2ojau6pln9dhcj4g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.patientUi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

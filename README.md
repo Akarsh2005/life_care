@@ -1,12 +1,12 @@
 
-# 🏥 Life Care — Multi-App Flutter Monorepo
+# Life Care 
 
 A unified healthcare platform built with Flutter, containing **three standalone apps** designed for Admins, Doctors, and Patients.
 Each app is isolated and developed independently within its own folder.
 
 ---
 
-# 📱 Apps Included
+# Apps Included
 
 ```
 life_care/

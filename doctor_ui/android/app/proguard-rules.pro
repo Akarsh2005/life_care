@@ -1,0 +1,2 @@
+-keep class im.zego.** { *; }
+-keep class **.zego.** { *; }
